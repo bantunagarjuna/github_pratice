@@ -5,3 +5,5 @@ Hello
 this line added from the local workspace
 
 this second line added from the local workspace
+
+hi local
