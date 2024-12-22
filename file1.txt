@@ -10,9 +10,13 @@ this second line added from the local workspace
 
 hi local - hi github - thanks for the reply local
 
+<<<<<<< HEAD
 new line
 
 new for bantu1
 new line from github
 new for bantu1
 
+=======
+new line from github
+>>>>>>> c209abb (Update file1.txt)
