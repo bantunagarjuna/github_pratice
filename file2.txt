@@ -1,3 +1,5 @@
 This is file2.txt
 
 new line
+
+new feature is added
