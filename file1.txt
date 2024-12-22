@@ -1,5 +1,7 @@
 Hi, this my first file file1.txt
 
+Hello hi
+
 Hello
 
 this line added from the local workspace
