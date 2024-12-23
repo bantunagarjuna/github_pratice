@@ -7,3 +7,5 @@ new feature is added
 new feature in bantu1
 
 merging this line to the master
+
+Hi in master
